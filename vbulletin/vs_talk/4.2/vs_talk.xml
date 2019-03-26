@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<product productid="vs_talk" active="1">
+    <title>VS Talk</title>
+    <description>This product will show a message in the header of the entire site.</description>
+    <version>1.0.0</version>
+    <header>Hello World</header>
+</product>
